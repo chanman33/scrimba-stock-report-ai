@@ -1,4 +1,4 @@
-# cof7949fc8d07b8107226dc57
+# Practice project - experiment with OpenAI and Polygon stock data APIs
 
 Quick start:
 
